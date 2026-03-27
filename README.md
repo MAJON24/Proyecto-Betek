@@ -63,7 +63,7 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 ## 🏗️ Arquitectura
 
-📌 *Archivo:* `Img/Arquitectura.png`
+📌 ![Arquitectura](Img/Arquitectura.png)
 
 ---
 
