@@ -63,13 +63,13 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 ## 🏗️ Arquitectura
 
-📌 ![Arquitectura](Img/Arquitectura.png)
+![Arquitectura](Img/Arquitectura.png)
 
 ---
 
 ## 🗄️ Modelo de datos
 
-📌 ![Diagrama ER](Img/Diagrama-ER.png)
+![Diagrama ER](Img/Diagrama-ER.png)
 
 ---
 
