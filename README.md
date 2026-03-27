@@ -133,10 +133,6 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 Proyecto desarrollado por **CRITERIO DATA**
 
----
-
-**Maria Jose Nieto Garcia**
----
-**Yuly Aguilera Sáenz**
----
+**Maria Jose Nieto Garcia**<br>
+**Yuly Aguilera Sáenz**<br>
 **Shirley Alejandra León Pinzón**
