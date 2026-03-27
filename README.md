@@ -88,7 +88,7 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 ### 📌 Desarrollo
 ![Manual 1](Img/Manual_1.png)
-![Manual 3](Img/Manual__3.png)
+![Manual 3](Img/Manual_3.png)
 ![Manual 2](Img/Manual_2.png)  
 
 ### 📈 Visualización
