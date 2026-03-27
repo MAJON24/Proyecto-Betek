@@ -69,7 +69,7 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 ## 🗄️ Modelo de datos
 
-📌 *Diagrama relacional:* `Img/Diagrama-ER.png`
+📌 ![Diagrama ER](Img/Diagrama-ER.png)
 
 ---
 
@@ -77,22 +77,22 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 
 📊 Análisis y transformación de datos:
 
-- `Img/Databricks_1.png`  
-- `Img/Databricks_2.png`  
-- `Img/Databricks_3.png`  
-- `Img/Databricks_4.png`  
+![Databricks 1](Img/Databricks_1.png)
+![Databricks 2](Img/Databricks_2.png)
+![Databricks 3](Img/Databricks_3.png)
+![Databricks 4](Img/Databricks_4.png)
 
 ---
 
 ## 📊 Power BI
 
 ### 📌 Desarrollo
-- `Img/Manual_1.png`  
-- `Img/Manual_2.png`  
+![Manual 1](Img/Manual_1.png)
+![Manual 2](Img/Manual_2.png)  
 
 ### 📈 Visualización
-- `Img/Power_BI_1.png`  
-- `Img/Power_BI_2.png`  
+![Dashboard 1](Img/Power_BI_1.png)
+![Dashboard 2](Img/Power_BI_2.png)
 
 ---
 
@@ -132,3 +132,6 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 ## 🚀 Autor
 
 Proyecto desarrollado por **CRITERIO DATA**
+**Maria Jose Nieto Garcia**
+**Yuly Aguilera Sáenz**
+**Shirley Alejandra León Pinzón**
