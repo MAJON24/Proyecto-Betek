@@ -132,6 +132,11 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 ## 🚀 Autor
 
 Proyecto desarrollado por **CRITERIO DATA**
+
+---
+
 **Maria Jose Nieto Garcia**
+---
 **Yuly Aguilera Sáenz**
+---
 **Shirley Alejandra León Pinzón**
