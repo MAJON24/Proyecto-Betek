@@ -124,7 +124,7 @@ Diseñar e implementar un dashboard en Power BI que consolide la información de
 ## 💡 Recomendaciones
 
 - Enfocar la operación en rutas rentables como Bogotá - Valledupar  
-- Seguir promocionando Bogotá como origen y destino principal  
+- Seguir promocionando Bogotá, siendo el origen y el destino que más se vende 
 - Fortalecer la fidelización de clientes en los meses de octubre y noviembre  
 
 ---
